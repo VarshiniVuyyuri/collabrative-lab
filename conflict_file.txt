@@ -1,5 +1,5 @@
 This is the conflict resolution lab.
 --- START CONFLICT LINE ---
-This is the original line that will be modified by everyone.
+MODIFIED BY STUDENT A
 --- END CONFLICT LINE ---
 Another line below the potential conflict.
