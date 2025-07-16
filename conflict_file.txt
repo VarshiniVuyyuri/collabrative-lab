@@ -1,2 +1,5 @@
-Line 1: Initial content
-Line 2: Modified by User 1 for X
+This is the conflict resolution lab.
+--- START CONFLICT LINE ---
+This is the original line that will be modified by everyone.
+--- END CONFLICT LINE ---
+Another line below the potential conflict.
